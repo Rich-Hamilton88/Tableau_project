@@ -16,7 +16,7 @@ Created a Tableau story that brings together the visualizations, requested maps,
 
 ## Dashboards
 
-![Bike/Trip Dashboard](Images/Bike Milage_Trip Duration Dashboard.png)       
+![Bike/Trip Dashboard](Images/BIke Milage_Trip Duration Dashboard.png)       
 
 ![Gender & Age Dashboard](Images/Gender_Age Dashboard.png)   
 
